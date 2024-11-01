@@ -1,0 +1,63 @@
+body {
+    background-color: bisque;
+    font-family: "Georgia", Times, serif;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(0, 128, 128, .8);
+    color: chocolate;
+    font-family: monospace;
+}
+
+ul {
+    list-style-type: none;
+    background-color: rgb(28, 211, 211, .6);
+
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    padding-inline: 40px;
+}
+
+h1 {
+    text-shadow: 3px 3px 4px gray;
+    font-size: 65px;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.bartender {
+    color: rgb(235, 65, 14);
+    font-style: oblique;
+    text-shadow: 2px 2px 7px gray;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.welcome-image {
+    border: 5px solid rgb(184, 17, 17);
+}
+
+.bartenders-pic {
+    width: 400px;
+    border: 4px solid orange;
+}
+
+form {
+    text-align: center;
+    background-color: rgb(235, 65, 14, .2);
+}
+
+input {
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
