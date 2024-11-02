@@ -5,3 +5,4 @@ Bartenders are able to promote the shifts they are working as events, and then d
 
 ![Bar Crawler ER Model](https://github.com/PyronicGreen/Bar-Crawler/blob/main/images/Bar-Crawler_ER_Model.jpg?raw=true)
 
+![Bar Crawler Relations](https://github.com/PyronicGreen/Bar-Crawler/blob/main/images/Bar-Crawler_Relations.jpg?raw=true)
