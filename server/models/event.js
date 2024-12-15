@@ -30,8 +30,8 @@ async function create(event) {
     VALUES("${event.Eventname}", "${event.EventDescription}", "${event.EventCost}")
   `  
   await con.query(sql)
-  let newUser = await login(user)
-  return newUser //issue fixed from class: removed [0] since login function returns this already
+  let newEvent = await create(event)
+  return newEvent //issue fixed from class: removed [0] since login function returns this already
 }
 
 //D for Delete - delete event
