@@ -1,0 +1,28 @@
+{
+  "name": "bar-crawler",
+  "version": "1.0.0",
+  "description": "Bar-Crawler is a web app for bartenders.",
+  "main": "user-login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyronicGreen/Bar-Crawler.git"
+  },
+  "author": "Jared Rinaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyronicGreen/Bar-Crawler/issues"
+  },
+  "homepage": "https://github.com/PyronicGreen/Bar-Crawler#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
