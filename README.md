@@ -3,9 +3,9 @@
 Bartenders are able to promote the shifts they are working as events, and then define these events according to metrics such as location, time, and drinks and entertainment available. Patrons can then search through the available events and RSVP to as many as they'd like.
 
 
-![Bar Crawler ER Model](https://github.com/PyronicGreen/Bar-Crawler/blob/main/images/Bar-Crawler_ER_Model.jpg?raw=true)
+![Bar Crawler ER Model](https://github.com/PyronicGreen/Bar-Crawler/blob/main/server/models/Bar-Crawler_ER_Model.jpg?raw=true)
 
-![Bar Crawler Relations](https://github.com/PyronicGreen/Bar-Crawler/blob/main/images/Bar-Crawler_Relations.jpg?raw=true)
+![Bar Crawler Relations](https://github.com/PyronicGreen/Bar-Crawler/blob/main/server/models/Bar-Crawler_Relations.jpg?raw=true)
 
 ![mysql bar crawler show tables](https://github.com/user-attachments/assets/e96d429c-8e6e-43a4-8a3d-d64aa86fa1f1)
 
